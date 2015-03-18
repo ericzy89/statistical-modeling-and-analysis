@@ -25,7 +25,7 @@ Statistical Modeling and Analysis for VLSI Design Project Page
 
 4. Member
 
-   Sheldon Tan (PI)
+   Dr. Sheldon Tan (PI)
    
    David Hosoon Shin
    
